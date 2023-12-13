@@ -29,10 +29,27 @@ The Jeopardy! Trainer app is an open source app based on the Cluebase Jeopardy A
 - Create working game from information in Cluebase API
 - Create and display win/loss and questions-answered statistics for User Profile
 - Google oAuth signup/signin functionality
+- Show player "winnings"
 
 ### Stretch Goals
 
 - Get text-to-speech working
+- Player can pick game season they wish to play
 - Implement ChatGPT API to step in as opponents
 - Model the opponent AI after actual player and current host Ken Jennings based on his average answer percentage
 - Create 2nd AI opponent based off James Holzauer
+- Use an AI recreation of Alex Trebek's voice to read clues (RIP)
+
+### Wireframes
+
+Game Board
+![gameboard](wireframes/pngs/gameboard.png)
+
+Landing Page
+![landing page](wireframes/pngs/landing.png)
+
+Pick Clue Screen
+![pick clue page](wireframes/pngs/pick-clue.png)
+
+Profile Page
+![profile](wireframes/pngs/profile.png)
