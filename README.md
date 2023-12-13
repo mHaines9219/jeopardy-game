@@ -35,3 +35,4 @@ The Jeopardy! Trainer app is an open source app based on the Cluebase Jeopardy A
 - Get text-to-speech working
 - Implement ChatGPT API to step in as opponents
 - Model the opponent AI after actual player and current host Ken Jennings based on his average answer percentage
+- Create 2nd AI opponent based off James Holzauer
